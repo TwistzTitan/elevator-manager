@@ -9,6 +9,6 @@ namespace DeliveryElevator.Models
         private int _orderLimit;
         public int _orders;
         public int _status;
-        
+
     }   
 }
