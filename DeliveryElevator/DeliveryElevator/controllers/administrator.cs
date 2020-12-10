@@ -18,4 +18,33 @@ namespace DeliveryElevator.Controllers
         }
 
     }
+
+    class OrderAdminitrator
+    {
+        private Queue<Order> _orders;
+
+        protected Queue<Order> Orders 
+        {
+            get { return _orders ?? new Queue<Order>(); }
+            set { _orders = value; } 
+        }
+
+        private void addOrder(Order o)
+        {
+            throw new NotImplementedException();
+        }
+        private void removeOrder()
+        {
+        
+        }
+        public void receiveOrder(Order o)
+        {
+            throw new NotImplementedException();
+        }
+        public IEnumerable<Order> selectOrderByFloor(int f) 
+        {
+            throw new NotImplementedException();
+        }
+
+    }
 }

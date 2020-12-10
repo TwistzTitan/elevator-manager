@@ -1,0 +1,13 @@
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.exe
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.deps.json
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.runtimeconfig.json
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.runtimeconfig.dev.json
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.dll
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.pdb
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.csprojAssemblyReference.cache
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.AssemblyInfoInputs.cache
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.AssemblyInfo.cs
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.csproj.CoreCompileInputs.cache
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.dll
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.pdb
+C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.genruntimeconfig.cache
