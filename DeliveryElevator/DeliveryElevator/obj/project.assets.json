@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LeonardoHonórioSdeOl\\Projetos\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
+      "projectUniqueName": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
       "projectName": "DeliveryElevator",
-      "projectPath": "C:\\Users\\LeonardoHonórioSdeOl\\Projetos\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
+      "projectPath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
       "packagesPath": "C:\\Users\\LeonardoHonórioSdeOl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LeonardoHonórioSdeOl\\Projetos\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\obj\\",
+      "outputPath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LeonardoHonórioSdeOl\\AppData\\Roaming\\NuGet\\NuGet.Config",

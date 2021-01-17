@@ -11,3 +11,16 @@ C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator
 C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.dll
 C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.pdb
 C:\Users\LeonardoHonórioSdeOl\Projetos\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.genruntimeconfig.cache
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.csprojAssemblyReference.cache
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.AssemblyInfoInputs.cache
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.AssemblyInfo.cs
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.csproj.CoreCompileInputs.cache
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.dll
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.pdb
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.exe
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.deps.json
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.runtimeconfig.json
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.runtimeconfig.dev.json
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.dll
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\bin\Debug\netcoreapp3.1\DeliveryElevator.pdb
+C:\projects\csharp\elevator-manager\DeliveryElevator\DeliveryElevator\obj\Debug\netcoreapp3.1\DeliveryElevator.genruntimeconfig.cache

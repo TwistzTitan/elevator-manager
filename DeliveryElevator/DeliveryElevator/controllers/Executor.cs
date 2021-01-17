@@ -23,6 +23,11 @@ namespace DeliveryElevator.Controllers
         private void downElevator(){
             throw new NotImplementedException();
         }
+
+        private void analyseNextFloor()
+        {
+            throw new NotImplementedException();
+        }
                 
     }
 #endregion

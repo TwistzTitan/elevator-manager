@@ -50,7 +50,7 @@ namespace DeliveryElevator.Controllers
             Console.WriteLine("Whats is the destiny floor of order?");
             var destinyFloor = int.Parse(Console.ReadLine());
             Order o = new Order(floor, destinyFloor);
-            new OrderAdminitrator().receiveOrder(o);
+            new OrderAdministrator().receiveOrder(o);
             
         }
     }
