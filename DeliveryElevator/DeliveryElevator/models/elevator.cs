@@ -2,26 +2,64 @@ using System;
 using System.Collections.Generic;
 namespace DeliveryElevator.Models
 {
-    public class Elevator 
-    { 
+    public class Elevator
+    {
+
+        #region Private Attributes
         private static int _id;
         private int _floor;
-        private int _destiny; 
+        private int _destiny;
         private int _orderLimit;
         private List<Order> _orders;
-        public int _status;
-        public Elevator(int floor, int destiny, int limitOrder, int status) 
+        private int _status;
+
+        #endregion
+
+        #region Public Properties
+        public int Floor
         {
-            _id++;
-            _floor = floor;
-            _destiny = destiny;
-            _orderLimit = limitOrder;
-            _status = status;
+            get { return _floor; }
+            set { _floor = value; }
         }
 
-        public int getOrderLimit() => _orderLimit;
+        public int Destiny
+        {
+            get { return _destiny; }
+            set { _destiny = value; }
+        }
 
-        public void insertOrders() => throw new NotImplementedException();
+        public List<Order> Orders
+        {
+            get { return _orders; }
+            set { _orders = value; }
+        }
 
+        public int LimitOrders
+        {
+            get { return _orderLimit; }
+            set { _orderLimit = value; }
+        }
+
+        public int Status
+        {
+            get { return _status; }
+            set { _status = value; }
+        }
+        #endregion
+        public Elevator(int floor, int destiny, int limitOrder,int status, List<Order> list = null)
+        {
+
+            _id++;
+            Orders = list ?? new List<Order>();
+            Floor = floor;
+            Destiny = destiny;
+            LimitOrders = limitOrder;
+            Status = status;
+
+        }
+        #region Public Methods
+        public int getOrderLimit() => LimitOrders;
+
+        #endregion
     }
 }

@@ -7,36 +7,43 @@ namespace DeliveryElevator.Controllers
    public class ElevatorAdministrator 
     {   
         // Adminitrator is responsible by the selection and organization of elevators
-
-        private List<Elevator> _elevators {
+        #region  Private Attributes
+        private List<Elevator> _elevators;
+        private Executor _executor;
+        
+        #endregion
+        
+        #region Public Properties
+        public List<Elevator> myElevators{
             get { return _elevators?? new List<Elevator>();}
             set { _elevators = value;}
-        } 
-        private Executor myExecutor{
-            get { return myExecutor?? new Executor();}
-            set { myExecutor = value;}
         }
-        
-        public ElevatorAdministrator(List<Elevator> list = null){
-            
-           _elevators = list?? new List<Elevator>();
+        private Executor myExecutor{
+            get { return _executor?? new Executor();}
+            set { _executor = value;}
         }
 
+        #endregion
+        public ElevatorAdministrator(List<Elevator> list = null){
+            
+           myElevators = list?? new List<Elevator>();
+        }
+
+        #region Private Methods
         private bool selectElevator(){
             throw new NotImplementedException();
         }
-        private List<Elevator> selectStoppedElevator(){
+        
+        #endregion
+        public List<Elevator> selectStoppedElevator()=> (from i in myElevators where i.Status == 0 select i).ToList();
             
-            var elevator  =  (from i in _elevators where i._status == 0 select i).ToList();
-            return elevator;
-        }
         private Elevator selectRunningElevator(OrderAdministrator odA){
             throw new NotImplementedException();
         }
 
-        public int getElevatorsNumber()=> _elevators.Count();
+        public int getElevatorsNumber()=> myElevators.Count();
 
-        public void insertElevator(Elevator ev) => _elevators.Add(ev); // TODO: When insert a elevator, notify the current executor.
+        public void insertElevator(Elevator ev) => myElevators.Add(ev); // TODO: When insert a elevator, notify the current executor.
 
     }
 

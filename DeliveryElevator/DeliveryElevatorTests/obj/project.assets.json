@@ -4644,9 +4644,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevatorTests\\DeliveryElevatorTests.csproj",
-      "projectName": "DeliveryElevatorTests",
-      "projectPath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevatorTests\\DeliveryElevatorTests.csproj",
+      "projectUniqueName": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevatorTests\\DeliveryTests.csproj",
+      "projectName": "DeliveryTests",
+      "projectPath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevatorTests\\DeliveryTests.csproj",
       "packagesPath": "C:\\Users\\LeonardoHonórioSdeOl\\.nuget\\packages\\",
       "outputPath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevatorTests\\obj\\",
       "projectStyle": "PackageReference",
