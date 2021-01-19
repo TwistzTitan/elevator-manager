@@ -1,7 +1,7 @@
 using System;
 namespace DeliveryElevator.Models
 {
-   public class ElevatorStatus : EventArgs {
+   public class ElevatorReportStatus : EventArgs {
 
         public int ElevatorID; 
         public int Floor;

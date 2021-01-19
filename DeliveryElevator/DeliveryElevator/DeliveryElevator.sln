@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliveryElevator", "DeliveryElevator.csproj", "{591F0CE4-68CE-4C5F-B700-1C1667C3D894}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryTests", "..\DeliveryTests\DeliveryTests.csproj", "{D3292EC1-38B9-4658-9F87-6DE36218E568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliveryTests", "..\DeliveryElevatorTests\DeliveryTests.csproj", "{2C534970-BF81-4AE3-A416-B202CDF8EB6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{591F0CE4-68CE-4C5F-B700-1C1667C3D894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{591F0CE4-68CE-4C5F-B700-1C1667C3D894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{591F0CE4-68CE-4C5F-B700-1C1667C3D894}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D3292EC1-38B9-4658-9F87-6DE36218E568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3292EC1-38B9-4658-9F87-6DE36218E568}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3292EC1-38B9-4658-9F87-6DE36218E568}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3292EC1-38B9-4658-9F87-6DE36218E568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C534970-BF81-4AE3-A416-B202CDF8EB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C534970-BF81-4AE3-A416-B202CDF8EB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C534970-BF81-4AE3-A416-B202CDF8EB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C534970-BF81-4AE3-A416-B202CDF8EB6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

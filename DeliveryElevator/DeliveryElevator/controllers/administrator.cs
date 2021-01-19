@@ -35,10 +35,21 @@ namespace DeliveryElevator.Controllers
         }
         
         #endregion
-        public List<Elevator> selectStoppedElevator()=> (from i in myElevators where i.Status == 0 select i).ToList();
+        public List<Elevator> selectStoppedElevator()=> (from e in myElevators where e.Status == 0 select e).ToList();
             
-        private Elevator selectRunningElevator(OrderAdministrator odA){
-            throw new NotImplementedException();
+        public List<Elevator> selectRunningElevator()=> (from e in myElevators where e.Status > 0 select e).ToList();
+
+        public Elevator selectRunningElevatorForOrder(Order o) 
+        {
+
+            var ev = from e in selectRunningElevator() 
+                     where Math.Abs(e.Floor - o.GetFloor()) <= 3 
+                     && e.Orders.Count < e.LimitOrders 
+                     && e.Status == o.GetMoveTo()
+                     select e;
+
+            return ev.FirstOrDefault();
+
         }
 
         public int getElevatorsNumber()=> myElevators.Count();
@@ -47,7 +58,7 @@ namespace DeliveryElevator.Controllers
 
     }
 
-    class OrderAdministrator
+   public class OrderAdministrator
     {
         private Queue<Order> _orders;
 

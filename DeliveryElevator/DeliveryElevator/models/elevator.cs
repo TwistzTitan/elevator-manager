@@ -11,7 +11,7 @@ namespace DeliveryElevator.Models
         private int _destiny;
         private int _orderLimit;
         private List<Order> _orders;
-        private int _status;
+        private int _moveTo;
 
         #endregion
 
@@ -42,11 +42,11 @@ namespace DeliveryElevator.Models
 
         public int Status
         {
-            get { return _status; }
-            set { _status = value; }
+            get { return _moveTo; }
+            set { _moveTo = value; }
         }
         #endregion
-        public Elevator(int floor, int destiny, int limitOrder,int status, List<Order> list = null)
+        public Elevator(int floor, int destiny, int limitOrder, List<Order> list = null)
         {
 
             _id++;
@@ -54,12 +54,22 @@ namespace DeliveryElevator.Models
             Floor = floor;
             Destiny = destiny;
             LimitOrders = limitOrder;
-            Status = status;
+
+            if (_destiny > floor) Status = 2;
+            else if(_destiny < floor){ Status = 1; }
+            else { Status = 0; }
 
         }
         #region Public Methods
-        public int getOrderLimit() => LimitOrders;
-
+      
         #endregion
     }
+
+
+    public enum ElevatorStatus
+    {
+        Stopped = 0,
+        Down = 1, 
+        Up = 2,
+    };
 }
