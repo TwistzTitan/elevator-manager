@@ -1,0 +1,15 @@
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\bin\Debug\net7.0\DeliveryElevator.Services.deps.json
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\bin\Debug\net7.0\DeliveryElevator.Services.dll
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\bin\Debug\net7.0\DeliveryElevator.Services.pdb
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\bin\Debug\net7.0\DeliveryElevator.Domain.dll
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\bin\Debug\net7.0\DeliveryElevator.Domain.pdb
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.csproj.AssemblyReference.cache
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.AssemblyInfoInputs.cache
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.AssemblyInfo.cs
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.csproj.CopyComplete
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.dll
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\refint\DeliveryElevator.Services.dll
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\DeliveryElevator.Services.pdb
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Services\obj\Debug\net7.0\ref\DeliveryElevator.Services.dll

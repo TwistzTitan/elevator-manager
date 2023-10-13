@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "DeliveryElevator.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DeliveryElevator.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryElevator.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DeliveryElevator.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryElevator.Domain/DeliveryElevator.Domain.csproj",
+      "msbuildProject": "../DeliveryElevator.Domain/DeliveryElevator.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "DeliveryElevator.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\leona\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator.Domain\\DeliveryElevator.Domain.csproj": {
+              "projectPath": "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator.Domain\\DeliveryElevator.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

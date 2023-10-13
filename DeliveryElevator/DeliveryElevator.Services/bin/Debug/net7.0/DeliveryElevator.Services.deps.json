@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DeliveryElevator.Services/1.0.0": {
+        "dependencies": {
+          "DeliveryElevator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryElevator.Services.dll": {}
+        }
+      },
+      "DeliveryElevator.Domain/1.0.0": {
+        "runtime": {
+          "DeliveryElevator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryElevator.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryElevator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
