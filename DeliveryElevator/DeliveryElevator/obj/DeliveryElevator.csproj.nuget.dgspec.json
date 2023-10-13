@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj": {}
+    "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj": {}
   },
   "projects": {
-    "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj": {
+    "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
         "projectName": "DeliveryElevator",
-        "projectPath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
-        "packagesPath": "C:\\Users\\LeonardoHonórioSdeOl\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\obj\\",
+        "projectPath": "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LeonardoHonórioSdeOl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,11 +22,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/mongeral/_packaging/Nuget-Mongeral/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,22 +38,42 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

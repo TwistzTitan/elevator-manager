@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pv+P4/yZqyyOffjjx8kwndhMoQud0QXHU7uS33jk87BDHXdQlc3oopdT3GFZXzPleVVzGqXSHh0Mjl0s5PxsjA==",
+  "dgSpecHash": "zXhTD9OlGYqnZaZBqfg0LUfAG9ivaG2DC7/ysfVvCsKKO0KUX8pNma5Enwi/BSgAnMnsml84X7QG81RPN8WE/g==",
   "success": true,
-  "projectFilePath": "C:\\projects\\csharp\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\leona\\source\\labs\\dotnet\\elevator-manager\\DeliveryElevator\\DeliveryElevator\\DeliveryElevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
