@@ -1,0 +1,11 @@
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\bin\Debug\net7.0\DeliveryElevator.Domain.deps.json
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\bin\Debug\net7.0\DeliveryElevator.Domain.dll
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\bin\Debug\net7.0\DeliveryElevator.Domain.pdb
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\DeliveryElevator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\DeliveryElevator.Domain.AssemblyInfoInputs.cache
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\DeliveryElevator.Domain.AssemblyInfo.cs
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\DeliveryElevator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\DeliveryElevator.Domain.dll
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\refint\DeliveryElevator.Domain.dll
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\DeliveryElevator.Domain.pdb
+C:\Users\leona\source\labs\dotnet\elevator-manager\DeliveryElevator\DeliveryElevator.Domain\obj\Debug\net7.0\ref\DeliveryElevator.Domain.dll
